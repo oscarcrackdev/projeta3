@@ -1,0 +1,44 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.priority {
+  margin-bottom: 30px;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.Hauteur1 {
+  background-color: #ff4d4d;
+  color: white;
+}
+
+.Hauteur2 {
+  background-color: #ffc107;
+  color: #333;
+}
+
+.Hauteur3 {
+  background-color: #d4edda;
+  color: #2c662d;
+}
+
+h2 {
+  margin-top: 0;
+}
+
+ul {
+  list-style-type: square;
+  padding-left: 20px;
+}
+
+li {
+  margin: 8px 0;
+}
